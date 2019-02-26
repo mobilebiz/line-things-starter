@@ -38,3 +38,6 @@
 # Custom Added
 .DS_Store
 build/
+
+curl.txt
+curlResult.json
